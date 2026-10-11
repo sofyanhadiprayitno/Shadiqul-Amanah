@@ -1,0 +1,6 @@
+{
+  "name": "RT 04 / RW 12 Perum Taman Buah Sukamantri",
+  "description": "Portal Warga Digital RT 04 / RW 12 Perumahan Taman Buah Sukamantri: Layanan administrasi surat resmi ber-QR Code, data demografi kependudukan, transparansi kas RT, aspirasi, dan agenda warga.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
